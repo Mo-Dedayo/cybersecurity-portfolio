@@ -1,7 +1,7 @@
 # Cybersecurity-portfolio
 
 ## About Me
-I am an aspiring cybersecurity professional building practical skills in network security, security monitoring Linux and incident response
+I am an aspiring cybersecurity professional building practical skills in network security, security monitoring Linux and incident response.
 I have completed the Google Cybersecurity Professional Certificate
 
 ## Skills
